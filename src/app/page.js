@@ -27,7 +27,7 @@ export default function Home() {
     fetchTrips();
   }, []);
 
-  const addTrip = (tripData) => {
+  const addTrip = (tripData)  => {
     const newTrip = {
       id: Date.now(),
       ...tripData,

@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Traveling app",
+  title: "Dima's Photos",
   description: "Site for collecting photos of trips",
 };
 
