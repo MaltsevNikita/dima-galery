@@ -81,7 +81,7 @@ export default function Home() {
        <header className="bg-white shadow">
          <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
            <div className="flex items-center space-x-4">
-             <img src="/dima.jpg" alt="Дума" className="w-[100px] h-[100px] rounded" />
+             <img src="/painting.jpg" alt="Дума" className="w-[100px] h-[100px] rounded" />
              <h1 className="text-3xl font-bold text-gray-90">Галерея Мальцева Димы</h1>
            </div>
          </div>
